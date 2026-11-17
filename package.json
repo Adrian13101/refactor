@@ -1,0 +1,16 @@
+{
+  "name": "turnos-reservas",
+  "version": "1.0.0",
+  "description": "Backend de turnos y reservas: servicios y reservas con Express y persistencia en archivos JSON, organizado en capas (routes, controllers, services, repositories y DAO)",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "customerName": "Ana Gómez",
+    "customerEmail": "ana@example.com",
+    "date": "2026-11-02",
+    "time": "10:00",
+    "services": [1]
+  }
+]
